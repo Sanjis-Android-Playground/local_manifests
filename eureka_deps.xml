@@ -14,7 +14,8 @@
 		revision="lineage-21"/>
 
         <remote name="sanji"
-                fetch="https://github.com/Sanjis-Android-Playground"/>
+                fetch="https://github.com/Sanjis-Android-Playground"
+		revision="android-14"/>
 	
         <!-- Eureka -->
         <project path="device/samsung" name="android_device_samsung_exynos7885" remote="sanji"/>
